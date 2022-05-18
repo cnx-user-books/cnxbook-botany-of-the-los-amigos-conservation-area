@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Images of the Los Amigos Conservation Area</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>012d405e-f324-4775-a850-00f650ebf65e</md:uuid>
+</metadata>
+
+  <content>
+  
+    <section id="first">
+      <title>Images</title>
+
+      <para id="one">
+   Link to the following images for a glimpse of the Los Amigos Research
+   Station and Conservation Area. Visit the database-driven Image Gallery
+   which now has 1113 images of plants, animals (humans included), and
+   places from the Los Amigos Conservation Area.
+	</para>
+
+
+      <figure id="okay" orient="horizontal">
+	<subfigure id="idp814272">
+	  <media id="idp801728" alt=""><image src="../../media/tIMG0034.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0034.jpg">Research Station</link></caption>
+	</subfigure>
+	  <subfigure id="idp158528">
+	  <media id="idm47168" alt=""><image src="../../media/tIMG0010.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0010.jpg">Remote Camp</link></caption>
+	</subfigure>
+	<subfigure id="idp201296">
+	  <media id="idm124272" alt=""><image src="../../media/tIMG0051.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0051.jpg">Rio Madre de Dios</link></caption>
+	</subfigure>
+	<subfigure id="idp173488">
+	  <media id="idp775440" alt=""><image src="../../media/tIMG0005.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0005.jpg">Rio Madre de Dios</link></caption>
+	</subfigure>
+      </figure>
+
+<figure id="alright" orient="horizontal">
+	<subfigure id="idm6795760">
+	  <media id="idm6795408" alt=""><image src="../../media/tIMG0031.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0031.jpg">Rio Los Amigos</link></caption>
+	</subfigure>
+	  <subfigure id="idp1956784">
+	  <media id="idp1957136" alt=""><image src="../../media/tIMG0006.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0006.jpg">Rio Los Amigos</link></caption>
+	</subfigure>
+	<subfigure id="idp1959264">
+	  <media id="idp1959648" alt=""><image src="../../media/tIMG0041.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0041.jpg">High Terrace, Rio Amigos</link></caption>
+	</subfigure>
+	<subfigure id="idp3607456">
+	  <media id="idp3607840" alt=""><image src="../../media/tIMG0047.jpg" mime-type="image/jpeg"/></media>
+	 <caption> <link resource="IMG0047.jpg">Rio Madre de Dios</link></caption>
+	</subfigure>
+      </figure>
+
+    </section> 
+
+</content>
+  
+</document>

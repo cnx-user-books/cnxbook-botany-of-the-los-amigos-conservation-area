@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hillshaded Digital Elevation Model</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6979ff32-ea9d-4003-922b-83ac765bdc1f</md:uuid>
+</metadata>
+
+  <content>
+     <figure id="fig1">
+      <media id="idp1485088" alt=""><image src="../../media/gis09_HillshadeDEM.jpg" mime-type="image/jpeg"/></media>
+      <caption>The DEM was used to generate a hill-shaded scene of the Los
+Amigos Conservation Area, pictured here. Rivers: (1) Madre de Dios.
+(2) Los Amigos River. (3) Amiguillos River. The change in elevation is
+not drastic, ranging from about 240 m in the Madre de Dios basin to
+about 350 m in the upper Amigos and Amiguillos watersheds. Both the
+DEM and our understanding of variation in elevation across the landscape
+deserve further investigation and ground-truthing. Los Amigos Botany is
+planning to do this during the next field season in January to February along
+with preliminary investigations on biotic and abiotic landscape-scale patterns
+of the Los Amigos landscape. </caption>
+    </figure>
+  </content>
+  
+</document>

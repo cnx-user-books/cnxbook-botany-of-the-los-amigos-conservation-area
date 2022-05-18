@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title> Digital Elevation Model</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6e297320-3e12-478a-9517-c1cffe164f34</md:uuid>
+</metadata>
+
+  <content>
+     <figure id="fig1">
+      <media id="idp45472" alt=""><image src="../../media/gis07_AsterDEM.jpg" mime-type="image/jpeg"/></media>
+      <caption>By viewing this Digital Elevation Model (DEM), it is clear that one
+of the dominant factors of our study landscape is its hydrological complexity.
+Like arteries and veins, the complex hydrology has driven landscape change,
+which has in turn driven the evolution and diversification of the rich flora and fauna
+of the region. The Amazon Rivers Program have discovered a highly
+diverse aquatic fauna in the region and are testing landscape-scale hypotheses
+regarding the evolution and diversification of the aquatic ecosystems.
+
+Faced with a high diversity of plant species in the study area, Los Amigos Botany
+is still in the stage of exploration and discovery. Collections have been made in the
+region of the station property (red diamond), and in selected areas along the
+Madre de Dios (1), Los Amigos (2), Amiguillos (3), and other (4) rivers.
+
+In collaboration with Mathias Tobler, team members of the Los Amigos Botany
+project will intensify focus on quantitative inventory and monitoring of plant diversity
+built within a framework of GIS and other tools for organization, analysis,
+visualization, and presentation of biotic and abiotic diversity patterns (betadiversity)
+across the landscape. For the systematic inventory and monitoring of plant diversity,
+we will apply the Los Amigos GIS to design, guide, and manage an intense collection
+strategy that maximizes the heterogeneity of habitats sampled. We will use this type of
+approach to test some on-going hypotheses about the evolution and diversification of
+plant diversity in the study area and region. </caption>
+    </figure>
+  </content>
+  
+</document>

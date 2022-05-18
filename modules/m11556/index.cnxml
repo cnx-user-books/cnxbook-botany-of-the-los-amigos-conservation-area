@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Landsat View II</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ad554ffe-679a-4a80-a04c-1186c495e9f1</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="fig1">
+      <media id="idp215360" alt=""><image src="../../media/gis03_Landsat2.jpg" mime-type="image/jpeg"/></media>
+      <caption>This scene shows a region of the upper Los Amigos River (2)
+and one of its tributaries, the Amiguillos River (3). Notice the dissected terrain
+depicted in this scene, much different from the lowland floodplain of the
+Madre de Dios River towards the bottom left of the scene. The Los Amigos
+and Amiguillos rivers are the primary watersheds protected within
+concession boundaries (red line). </caption>
+    </figure>
+  </content>
+  
+</document>

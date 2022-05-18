@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Los Amigos Conservation Area and Research Station - Map 1</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b791a5af-69a7-4d52-8662-c5a642818254</md:uuid>
+</metadata>
+
+  <content>
+    
+    <section id="first">
+      <title>Map 1</title>
+
+      <para id="one">
+	Location of the Los Amigos River watershed, upriver from Puerto
+	Maldonado, in Madre de Dios, Peru.
+	<figure id="map1">
+	  <media id="idp305008" alt=""><image src="../../media/madrededios_new.jpg" mime-type="image/jpeg"/></media>
+	</figure>
+      </para>
+    </section>
+  </content>
+  
+</document>

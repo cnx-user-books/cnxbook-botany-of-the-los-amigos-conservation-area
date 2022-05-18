@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Los Amigos Plant Collection Database</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9501fccb-cf11-49d0-9471-6b77788f6771</md:uuid>
+</metadata>
+
+  <content>
+    
+
+  <section id="first">
+    <title>Description of the Los Amigos Plant Collection Database 2001-2003</title>
+    <para id="one">
+      <emphasis>New! Search the Los Amigos Plant Collections Database (August 2003)!</emphasis>
+    </para>
+
+    <para id="two">
+      <figure id="botanic">
+	<media id="idp34336" alt=""><image src="../../media/Botanic-163.jpg" mime-type="image/jpeg"/></media>
+	<caption>Cochlospermaceae, Cochlospermum orinocoensis, Janovec 2715.</caption>
+      </figure>
+    </para>
+    
+    <para id="three">
+      The Los Amigos Botany Databases have grown rapidly based on all
+      collections that have been made in the Los Amigos area during
+      2001-2003. Collectors include John Janovec, Fernando Cornejo, Piers
+      Majestyk, Piher Maceda, and Pedro Centeno. Robin Foster and Hamilton
+      Beltrán conducted preliminary studies at Los Amigos early in 2001.
+      Their plant lists are maintained here in searchable format.
+    </para>
+    <para id="four">
+      The Los Amigos Plant Collections Database is now available for
+      searching, with approximately <emphasis>2700 collection records</emphasis>, including
+      vascular plants, bryophytes, and lichens. We are in the process of
+      adding many new collection records and integrating about <emphasis>4000 images</emphasis>
+      from the Los Amigos Botany Project with specimen searches.   Databases
+      are operated using a combination between Filemaker Pro, MS Access, and
+      MSSQL.  Updates are made on a regular basis.
+    </para>
+    <para id="five">
+      We have entered into Phase II of the Los Amigos Botany Project, which
+      involves continued exploration of the Los Amigos Conservation Area, a
+      400,00 acre (140,000 hectare) wildland protected by a private
+      conservation concession and management plan.  Phase II also involves
+      the development a database of information about taxa of the Los Amigos
+      flora. This includes general information and descriptive
+      characteristics for the &gt;1000 species we have collected mostly from
+      about 500 hectares of forest around the Los Amigos Biological Station.
+      These &gt;1000 species represent about 130 families and 475 genera of
+      plants. A database is being developed to handle character information
+      and other information about families, genera, and species of the Los
+      Amigos flora.
+    </para>
+    <para id="six">
+      We are also working with Dr. Bryan Heidorn of the University of
+      Illinois Urbana-Champaign School of Library and Information Science to
+      develop a web-based Los Amigos Botanical Information System that will
+      provide new innovative search engine techniques and a collaborative
+      working environment for continued documentation of plant diversity of
+      Los Amigos, Madre de Dios, Peru, and the Andes-Amazon region of SE
+      Peru in general.
+    </para>
+  </section>
+    <section id="second">
+      <title> Feedback</title>
+      <para id="seven">
+	We will appreciate any comments, corrections, preliminary
+	determinations we can get. This website is becoming part of the
+	communication system between taxonomic experts and the Los Amigos
+	Botany Project as we develop plant guides to the Los Amigos Biological
+	Station and Conservation Area.
+      </para>
+      <para id="eight">
+	Please search through your favorite families and view the images we
+	have available. If you can help with preliminary names, name
+	corrections, we will appreciate and acknowledge your input. And if you
+	need herbarium specimens, images, or special collections of particular
+	plants for morphological, anatomical, or molecular research, please
+	contact us about cooperation and collaboration.  Please e-mail John
+	Janovec at jjanovec@brit.org.
+      </para>
+    </section>
+
+    </content>
+      
+</document>

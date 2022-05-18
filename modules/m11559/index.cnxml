@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Digital Elevation Model</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bb8730cb-fba6-4c42-a95f-a014bf7041bc</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="fig1">
+      <media id="idm631248" alt=""><image src="../../media/gis06_DEM7.jpg" mime-type="image/jpeg"/></media>
+      <caption> The most recent and exciting addition to the Los Amigos GIS is
+shown above in raw format. Mathias Tobler masterminded the conversion
+of Aster optic imagery to digital elevation model format. We now have
+a Digital Elevation Model (DEM) for most of the conservation area (red
+lines). We plan to use the DEM and products displayed in the rest of this
+photo essay for two primary purposes: (1) to guide Los Amigos Botany
+and other projects in exploration and monitoring of the conservation area,
+and (2) to intensively explore the methods of geospatial and information
+science, using our landscape-scale investigation as a working model.</caption>
+    </figure>
+  </content>
+  
+</document>

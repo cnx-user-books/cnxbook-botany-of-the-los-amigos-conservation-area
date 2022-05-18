@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>JERS-1 Synthetic Aperture
+ Radar (SAR) Image</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0ce186fb-8c70-44b5-b892-04d98f1a642c</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="fig1">
+      <media id="idp1561280" alt=""><image src="../../media/gis16_JERS1.jpg" mime-type="image/jpeg"/></media>
+      <caption> This image shows a mosaic of scenes taken by JERS-1 Synthetic Aperture
+Radar (SAR) as part of the Global Rainforest Mapping Project Notice the meandering
+of the Madre de Dios River (1). It is larger than the Los Amigos River, which is not
+visible on this radar image within the concession boundary (red line) at this scale. White
+areas show wetlands, in this case Aguajales.</caption>
+    </figure>
+  </content>
+  
+</document>

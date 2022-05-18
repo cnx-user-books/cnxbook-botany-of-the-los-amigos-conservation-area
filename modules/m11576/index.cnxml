@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Los Amigos Jungle Cucumbers - Figure 2</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7837f350-946f-4088-b159-e4b6ff3136d8</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="figure2" orient="horizontal">
+      <subfigure id="idp1119136">
+	<media id="idm226544" alt=""><image src="../../media/Ginsolita2stem.jpg" mime-type="image/jpeg"/></media>
+      </subfigure>
+      <subfigure id="idm7599104">
+	<media id="idp787936" alt=""><image src="../../media/tendril.jpg" mime-type="image/jpeg"/></media>
+      </subfigure>
+    </figure>
+    <para id="para1">
+      <foreign>Gurania</foreign> plants are herbaceous and woody vines
+      that climb into the forest canopy with tendrils.  The herbaceous
+      plants are sometimes found in disturbed and sunny habitats.  The
+      species that produce large woody vines have their greatest
+      success in undisturbed primary forests-- in fact, mature vines
+      (those that are large enough to produce female flowers and
+      therefore fruits) can only survive without disturbance of the
+      large trees that support them.  
+    </para>
+  </content>
+  
+</document>

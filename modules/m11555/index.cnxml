@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Landsat View I</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b6f02dc3-409d-42e2-b106-09f1d236fb97</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="fig1">
+      <media id="idp7699744" alt=""><image src="../../media/gis02_Landsat1.jpg" mime-type="image/jpeg"/></media>
+      <caption>Landsat TM satellite image, 2000, showing overlay of the conservation
+area (red line), trail-map system (black lines), and the location of the Los Amigos
+Biological Station (red diamond). This scene provides a view of the vast
+floodplain and meandering complexity of the Madre de Dios River (1) and the
+smaller Los Amigos River (2)</caption>
+     </figure>
+          
+  </content>
+  
+</document>

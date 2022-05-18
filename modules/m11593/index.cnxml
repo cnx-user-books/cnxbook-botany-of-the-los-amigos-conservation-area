@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Los Amigos Geographical Information System (GIS)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>240fd415-8ddf-43e7-b230-e314657b66d6</md:uuid>
+</metadata>
+
+  <content>
+
+
+
+ <section id="first">
+<title>The Los Amigos Geographic Information System (GIS)</title>
+                                                               
+      <para id="one">
+
+	<table frame="none" colsep="1" rowsep="0" id="pics" summary="">
+	  <tgroup cols="2">
+	    <tbody>
+	      <row>
+		<entry>
+	  <media id="idp384272" alt=""><image src="../../media/gis10_DEM5_3in.jpg" mime-type="image/jpeg"/></media>
+	 </entry>
+		<entry>
+	  <media id="idm161776" alt=""><image src="../../media/gis08_DEM13_3in.jpg" mime-type="image/jpeg"/></media>
+		</entry>
+	      </row>
+	    </tbody>
+	  </tgroup>
+	</table>
+	</para>
+
+      <para id="two">
+                                                                                                                            
+                               Mathias Tobler
+                   Dept. of Wildlife &amp; Fisheries Sciences
+                      TAMU Spatial Science Laboratory
+                            Texas A&amp;M University
+                                                                                                                            
+                                     &amp;
+                                                                                                                            
+                                John Janovec
+                   Botanical Research Institute of Texas
+                      Amazon Conservation Association
+      </para>
+    </section>
+
+<section id="second">
+<title> Overview</title>
+      <para id="three">
+   Since August 2002, we have been actively working toward a Geographic
+   Information System (GIS) for the Los Amigos Conservation Area. Our
+   objectives have been to:
+	<list id="objectives" list-type="enumerated">
+	  <item>collect and organize available geographic
+	    data</item>
+	<item>to show possible use of the system in education, training
+   and research; and </item>
+	<item>present research results through print and
+   digital means of publication.</item>
+	</list></para>
+
+<para id="four">
+    A geographic metadatabase has been compiled from various sources,
+   including important files for the Los Amigos Conservation Area
+   provided by colleagues at the Amazon Conservation Association, and
+   files for Madre de Dios, Peru, and the American tropics that have been
+   opportunistically collected during the last year. We continue to
+   gather and input general basemaps, satellite images, climatic data,
+   human population data, and more. In October 2002 we added 15-meter
+resolution Aster imagery and the first author used them to generate a
+   Digital Elevation Model of the Los Amigos Conservation Area (see DEM
+   imagery at left). A 2000 Landsat TM image was then overlaid on the
+   digital elevation model to create a 3D view of the area (see images at
+   left). We also just received our first IKONOS image from Satellite
+   Imaging Inc. (www.spaceimaging.com), which we will use to produce a
+   high-resolution vegetation map of the area.
+ </para>
+      <para id="five">
+   Due to the scale of data available for the region, the Los Amigos GIS
+   has quickly expanded to encompass the entire geopolitical region of
+   the Department of Madre de Dios, Peru, and vicinity. This GIS system
+   is currently being used to support studies of the biodiversity in the
+   Los Amigos Conservation Area, but will soon be used for a broadened
+   analysis of the diversity, distribution, collection patterns, and
+   conservation of the plant diversity of Madre de Dios.
+          </para>
+      <para id="six">
+   Currently, all GIS to Internet presentation is driven by the software
+   HTML Image Mapper offered by Alta 4 (www.alta4.com). Plans for the
+   immediate future are to convert the entire interactive system over to
+   ArcIMS, an internet map server technology by ESRI, while we will
+   continue to use Alta 4 for smaller scale presentations of specific
+   geospatial patterns.
+                     </para>
+<para id="seven">                                                                                                       
+   See the Los Amigos GIS Photographic Essay.
+
+                 </para>                                                                                                           <para id="eight">
+   Last updated: October 2002. Contact John Janovec at jjanovec@nybg.org.
+      </para>
+    </section>
+ 
+                                                                                                                       
+  </content>
+  
+</document>

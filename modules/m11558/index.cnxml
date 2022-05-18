@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Georeferenced Trail Map</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4b7f1804-ceab-44b3-acab-46fe84b4d8d3</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="fig1">
+      <media id="idp7981856" alt=""><image src="../../media/gis05_Trails2.jpg" mime-type="image/jpeg"/></media>
+      <caption>This figure shows the location of the biological station (red circle),
+the trail system (black lines), and the Madre de Dios (1), and Los Amigos
+(2) rivers. The trails to the right of the station mostly give access to the floodplain
+forest, called 'terraza baja' or 'bajio'. The trails to the left and above the station
+traverse through a mixture of vegetation types and the dissected terrain created
+by multiple streams in the area. </caption>
+    </figure> 
+  </content>
+  
+</document>

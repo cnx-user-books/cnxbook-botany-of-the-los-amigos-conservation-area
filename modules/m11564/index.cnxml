@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Digital Elevation Model - 3-D View</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>27b9bc1e-f15a-4d4f-87d1-99702cb894f0</md:uuid>
+</metadata>
+
+  <content>
+   <figure id="fig1">
+      <media id="idp6697424" alt=""><image src="../../media/gis11_DEM1.jpg" mime-type="image/jpeg"/></media>
+      <caption>This scene provides a view of the terrace where the station sits
+(red diamond). DEM-generation from Aster images is not perfect, and due
+to error caused by reflectance patterns, some portions of the river appear to
+be waterfalls. There are no waterfalls along this portion of the Madre de Dios.
+Note the high banks between Madre de Dios (1) and the Los Amigos River (2).
+The Aguaje palm swamp (yellow star) sits between the high terrace and the
+floodplain. Just below the Aguaje palm swamp in this scene you can see light
+blue areas, which are past and present sites of gold-mining activities. </caption>
+    </figure>
+  </content>
+  
+</document>

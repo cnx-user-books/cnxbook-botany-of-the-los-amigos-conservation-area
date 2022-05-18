@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Distribution of Aguaje palm swamps in the Madre de
+Dios River basin</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bfb9ff0f-c1b6-446a-8e81-aea121176fe1</md:uuid>
+</metadata>
+
+  <content>
+   <figure id="fig1">
+      <media id="idp7740624" alt=""><image src="../../media/gis19_Aguajal_8in.jpg" mime-type="image/jpeg"/></media>
+      <caption> As part of Los Amigos Botany, we have initiated the Aguajal Project to study the ecology,
+diversity, distribution, economic potential, and sustainable use/management of the Aguaje palm (Mauritia flexuosa)
+and its ecosystem. This output image from GIS depicts the distribution of Aguaje palm swamps in the Madre de
+Dios River basin. Mathias Tobler generated this image by extracting Aguaje palm swamps from Landsat satellite
+imagery. We are using this map in conjunction with other geospatial data and imagery to guide us in our field work
+and analysis of this wetland ecosystem. See the Aguajal Project photographic essay for more information
+about this ecosystem.</caption>
+    </figure>
+  </content>
+  
+</document>

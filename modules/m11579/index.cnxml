@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Los Amigos Jungle Cucumbers - Figure 5</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d1a17c2a-2296-4bba-90b6-ce432d6b11e6</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="figure5" orient="horizontal">
+      <subfigure id="idm8225744">
+	<media id="idm8225392" alt=""><image src="../../media/Gulei_helic.jpg" mime-type="image/jpeg"/></media>
+      </subfigure>
+      <subfigure id="idm1717600">
+	<media id="idm1717248" alt=""><image src="../../media/marty_hummer.jpg" mime-type="image/jpeg"/></media>
+      </subfigure>
+      <subfigure id="idp2159472">
+	<media id="idp2159856" alt=""><image src="../../media/marty_bat.jpg" mime-type="image/jpeg"/></media>
+      </subfigure>
+    </figure>
+    <para id="para1">
+      <foreign>Gurania</foreign> is an exciting genus to study,
+      because many interesting animals rely upon these plants for
+      food.  The flowers are pollinated by hummingbirds and
+      <foreign>Heliconius</foreign> butterflies.  Hummingbirds seek
+      out the sweet nectar while butterflies are interested in the
+      nutritious pollen. The fruits are eaten by bats, and this is how
+      the seeds are dispersed.  
+    </para>
+  </content>
+  
+</document>

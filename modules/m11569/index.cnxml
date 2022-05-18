@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Digital Elevation Model (3D)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>72f2c77a-9723-451b-a770-025abf7f1bdd</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="fig1">
+      <media id="idp6282336" alt=""><image src="../../media/gis15_Elevation_24.jpg" mime-type="image/jpeg"/></media>
+      <caption>The availability of the Digital Elevation Model now allows for
+a carefully directed research design for sampling biotic and abiotic diversity.
+With an emphasis on plant diversity, the Los Amigos Botany team, consisting
+of an international group of Ph.D. scientists, graduate students, undergraduate
+students, and local field collaborators, will run landscape-scale transects that
+traverse a diversity of habitats. In the case of this scene, we will conduct
+systematic inventory and monitoring along several transects that connect the
+Madre de Dios floodplain forests (1) to the distant dissected terrain beyond
+the Amiguillos (3) to the Los Amigos River (not visible in this scene, but to north).
+We will ask questions pertaining to the distribution and variation of vegetation
+across the landscape, and use our quantitative and qualitative data to devise a
+classification. Preliminary vegetation maps have been developed, but much
+ground-truthing is needed to make these maps accurate and reliable. </caption>
+    </figure>
+  </content>
+  
+</document>

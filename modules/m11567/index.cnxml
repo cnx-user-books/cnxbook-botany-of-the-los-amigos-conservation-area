@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title> Digital Elevation Model --3-D View</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>67ad741d-e31f-41fb-b9cc-3bc357ea2e99</md:uuid>
+</metadata>
+
+  <content>
+     <figure id="fig1">
+      <media id="idp2683104" alt=""><image src="../../media/gis13_DEM4.jpg" mime-type="image/jpeg"/></media>
+      <caption> This scene provides a reverse view of the Los Amigos watershed.
+The biological station (yellow square) the Madre de Dios River (1) are located
+in the distant background of this scene. In the foreground one can see the
+Los Amigos River valley (2) and a hint of its tributary, the Amiguillos River (3).</caption>
+    </figure>
+  </content>
+  
+</document>

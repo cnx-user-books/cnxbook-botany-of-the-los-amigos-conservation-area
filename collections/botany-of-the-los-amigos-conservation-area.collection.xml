@@ -1,0 +1,104 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10210</md:content-id>
+    <md:title>Botany of The Los Amigos Conservation Area</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>40b91085-bb6f-4269-8a44-0690fe17c9c3</md:uuid>
+<md:slug>botany-of-the-los-amigos-conservation-area</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m11602"/>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m11585"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Information</md:title>
+      <col:content>
+        <col:module document="m11586"/>
+        <col:module document="m11592"/>
+        <col:module document="m11588"/>
+        <col:subcollection>
+          <md:title>Satellite Images</md:title>
+          <col:content>
+            <col:module document="m11589"/>
+            <col:module document="m11590"/>
+            <col:module document="m11591"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Interactive Databases</md:title>
+      <col:content>
+        <col:module document="m11599"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Photo Essays</md:title>
+      <col:content>
+        <col:module document="m11574"/>
+        <col:subcollection>
+          <md:title>Jungle Cucumbers</md:title>
+          <col:content>
+            <col:module document="m11600"/>
+            <col:subcollection>
+              <md:title>Jungle Cucumbers Images</md:title>
+              <col:content>
+                <col:module document="m11575"/>
+                <col:module document="m11576"/>
+                <col:module document="m11577"/>
+                <col:module document="m11578"/>
+                <col:module document="m11579"/>
+                <col:module document="m11580"/>
+                <col:module document="m11581"/>
+                <col:module document="m11582"/>
+                <col:module document="m11583"/>
+                <col:module document="m11584"/>
+                <col:module document="m11594"/>
+                <col:module document="m11595"/>
+                <col:module document="m11596"/>
+                <col:module document="m11597"/>
+                <col:module document="m11598"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>GIS</md:title>
+          <col:content>
+            <col:module document="m11593"/>
+            <col:subcollection>
+              <md:title>GIS Images</md:title>
+              <col:content>
+                <col:module document="m11554"/>
+                <col:module document="m11555"/>
+                <col:module document="m11556"/>
+                <col:module document="m11557"/>
+                <col:module document="m11558"/>
+                <col:module document="m11559"/>
+                <col:module document="m11560"/>
+                <col:module document="m11561"/>
+                <col:module document="m11562"/>
+                <col:module document="m11563"/>
+                <col:module document="m11564"/>
+                <col:module document="m11565"/>
+                <col:module document="m11566"/>
+                <col:module document="m11567"/>
+                <col:module document="m11568"/>
+                <col:module document="m11569"/>
+                <col:module document="m11570"/>
+                <col:module document="m11571"/>
+                <col:module document="m11572"/>
+                <col:module document="m11573"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

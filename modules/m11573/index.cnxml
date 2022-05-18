@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title> ACA GIS -- Meta-database</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>24b7a556-be35-47ee-8471-43f875640a6b</md:uuid>
+</metadata>
+
+<content>  <figure id="fig1">
+      <media id="idm749904" alt=""><image src="../../media/gis21_Metadata.jpg" mime-type="image/jpeg"/></media>
+      <caption> Information on all the available datasets in the Los Amigos GIS is
+stored in a meta-database to facilitate the use of the data by other researchers and
+students. Depicted here is one form page of the Los Amigos GIS Metadatabase. </caption>
+    </figure>
+   
+  </content>
+  
+</document>

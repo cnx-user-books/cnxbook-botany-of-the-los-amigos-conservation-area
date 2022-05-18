@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Los Amigos Conservation Area and Research Station - Map 2</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cba19ffc-d8aa-4fee-972b-a9e4ebb2802f</md:uuid>
+</metadata>
+
+  <content>
+
+    <section id="first">
+      <title> Map 2</title>
+      <para id="one">
+	
+	Landsat Image 1996, showing the Madre de Dios and Los Amigos Rivers.
+	The station sits on a high terrace with a west-facing view across
+        lowland forest towards the Andes Mountains in the distance.
+	
+	(West on this map is to the bottom left)
+	
+      </para>
+
+      <figure id="satellite">
+	<media id="idm3029424" alt=""><image src="../../media/satellite1.jpg" mime-type="image/jpeg"/></media>
+      </figure>
+    </section>
+  </content>
+</document>
